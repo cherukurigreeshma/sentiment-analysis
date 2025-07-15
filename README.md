@@ -2,8 +2,13 @@
 Tools and Techstack used are:
 <br>
 Python language
-NLTK / spaCy	
+<br>
+NLTK / spaCy
+<br>
 Scikit-learn	
-TensorFlow / Keras	
-Matplotlib / Seaborn	
+<br>
+TensorFlow / Keras
+<br>
+Matplotlib / Seaborn
+<br>
 Jupyter Notebook	Development environment
